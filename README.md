@@ -112,7 +112,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 ### Private Classes
 
 - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-- [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
+- [Verbling](https://www.verbling.com/community) - 1대1로 학습이 가능하며 가격이 다양. 가입 후 처음 30분은 무료.
 
 ### Group Classes
 
@@ -132,9 +132,9 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 
 - [ETS](http://englishteststore.net/) - English tests.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
-- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
+- [Duolingo](https://www.duolingo.com) - 영어학습 플랫폼으로 다양한 디바이스에서 학습 가능하고, 무료로 사용하면 제약이 많음. UI가 단순해서 사용하기 쉬움.
 - [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
-
+- [Rosetta stone](https://www.rosettakorea.com) - 영어학습 플랫폼으로 다양한 디바이스에서 학습 가능하고, 아주 기초적인 부분만 무료이며 이후 결제 필요. 
 ## Tools
 
 - [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
