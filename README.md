@@ -7,6 +7,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 
 ## Contents <!-- omit in toc -->
 
+- [Level](#level)
 - [Listening](#listening)
   - [Podcasts](#podcasts)
   - [Live Radio Stations](#live-radio-stations)
@@ -28,6 +29,41 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Online Dictionaries](#online-dictionaries)
 - [Answers](#answers)
 - [License](#license)
+
+## level
+
+- A1(Beginner)
+  - [x] 기초적인 답변
+  - [x] 자기 소개
+- A2(Elementary)
+  - [x] 기초적인 회화
+  - [x] 의사 전달 가능
+- B1 (pre-intermediate)
+  - [x] 느린 회화
+  - [x] 일반적인 듣기 가능
+  - [x] 원어민 초등학교 저학년 수준
+- B2 (intermediate)
+  - [x] 회화 가능
+  - [x] 원서 읽기
+  - [x] 원어민 중학생 수준
+- C1(Advanced)
+  - [x] 영어 강의 가능 
+- C2(Fluent)
+  - [x] 원어민 수준
+
+### Level별 학습 시간
+
+[유럽언어기준(나무위키)](https://namu.wiki/w/%EC%9C%A0%EB%9F%BD%EC%96%B8%EC%96%B4%EA%B8%B0%EC%A4%80) 참조하였음
+아래 시간은 온전히 집중한 시간을 나타냄
+
+Level | Hours(강의+자습(강의*2)) | 하루 3시간 | 하루 6시간 | 하루 9시간
+------|------|------|------|------
+A1 | 170 X 3 | 170일 | 85일 | 57일
+A2 | 260 X 3 | 260일 | 130일 | 86일
+B1 | 430 X 3 | 430일 | 215일 | 144일
+B2 | 600 X 3 | 600일 | 300일 | 200일
+C1 | 860 X 3 | 860일 | 430일 | 287일
+C2 | ∞ | ∞ | ∞ | ∞  
 
 ## Listening
 
