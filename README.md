@@ -168,7 +168,8 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
 - [Duolingo](https://www.duolingo.com) - 영어학습 플랫폼으로 다양한 디바이스에서 학습 가능하고, 무료로 사용하면 제약이 많음. UI가 단순해서 사용하기 쉬움.
 - [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
-- [Rosetta stone](https://www.rosettakorea.com) - 영어학습 플랫폼으로 다양한 디바이스에서 학습 가능하고, 아주 기초적인 부분만 무료이며 이후 결제 필요. 
+- [Rosetta stone](https://www.rosettakorea.com) - 영어학습 플랫폼으로 다양한 디바이스에서 학습 가능하고, 아주 기초적인 부분만 무료이며 이후 결제 필요.
+
 ## Tools
 
 - [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
@@ -177,6 +178,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
 - [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
 - [YouGlish](https://youglish.com/) - Improve your pronunciation
+- [Fluentu](https://www.fluentu.com) - YouTube의 영상을 언어 학습 형태로 재생한다. 관심 분야의 영상을 통하여 언어학습 할 수 있는 장점이 있다.
 
 ## Online Dictionaries
 
